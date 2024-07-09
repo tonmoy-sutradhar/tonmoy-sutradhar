@@ -7,9 +7,3 @@ I am Tonmoy Sutradhar. Student at American International University-Bangladesh, 
 
 Skills: C++, Java, My Sql, C#, .NET, HTML, CSS, Software Model
 
-- 🔭 I’m currently working on Website Project 
-- 🌱 I’m currently learning HTML, CSS, JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Linkedin 
-
