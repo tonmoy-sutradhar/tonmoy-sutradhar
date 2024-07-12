@@ -1,5 +1,5 @@
 
-### Hi there 👋,
+### Hi there 👋
 #### I'm Tonmoy Sutradhar
 #### Student at American International University - Bangladesh
 
