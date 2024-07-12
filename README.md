@@ -1,4 +1,4 @@
-![Student at American International University](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/398895153_1492625098204075_2084491520737434692_n.jpg?stp=c0.23.206.206a_cp6_dst-jpg_p206x206&_nc_cat=103&ccb=1-7&_nc_sid=50ad20&_nc_eui2=AeEqkQ4nC1WvT-Nj1FNLaZOB3f7YFJ00717d_tgUnTTvXuEqPpAR99lcK_AZSnJrqwjYQngSPrysufFJGOMKY8-n&_nc_ohc=_NBuj-C8bFIQ7kNvgH6JpDQ&_nc_ht=scontent.fdac99-1.fna&oh=00_AYBS3MJHdZlo9YiaK5cBobsPJTWjOhTnBAI2LRKg8ZOqaw&oe=669224B9)
+
 ### Hi there 👋, I'm Tonmoy Sutradhar
 #### Student at American International University - Bangladesh
 
