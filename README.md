@@ -1,4 +1,4 @@
-![Learning Web Development](https://media.licdn.com/dms/image/v2/D4E16AQH1FuYBqINC7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725516886486?e=1762387200&v=beta&t=bclb0qhJaTRj0ASIQ-w7M5FowkijG0U5QtTVnsoSzFE)
+![Learning Web Development](https://media.licdn.com/dms/image/v2/D4E16AQH1FuYBqINC7Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725516886486?e=1764806400&v=beta&t=Ti0ZkRjqXE2kJQjw21LXrMj9r_0AvgC4AoceTW0mkjw)
 ### Hi 👋, I am Tonmoy Sutradhar
 
 
